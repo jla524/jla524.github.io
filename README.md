@@ -1,10 +1,12 @@
-# DEVELOPER PORTFOLIO
+# Developer Portfolio
 
-A portfolio website template for campers
+My portfolio website, built on [Kolade Chris'][0] template
 
 ## Tech Stack
 
-**Client:** HTML, CSS, Vanilla JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ## Tools Used
 
@@ -20,6 +22,7 @@ Below are are list of tools used, and the precise things they were used for:
 [How to Build Your Own Developer Portfolio Website][5]
 
 
+[0]: https://github.com/Ksound22
 [1]: https://ionic.io/ionicons
 [2]: https://icons8.com/
 [3]: https://animate.style/
