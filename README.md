@@ -1,4 +1,4 @@
-# Developer Portfolio
+# Portfolio
 
 My portfolio website, built on [Kolade Chris'][0] template
 
