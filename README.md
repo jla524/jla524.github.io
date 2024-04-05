@@ -17,9 +17,9 @@ Below are are list of tools used, and the precise things they were used for:
 - [Animate CSS][3] for bio text animation
 - [Formspree][4] for contact form submision and straight delivery to Gmail
 
-## References
+## Reference
 
-[How to Build Your Own Developer Portfolio Website][5]
+- [How to Build Your Own Developer Portfolio Website][5]
 
 
 [0]: https://github.com/Ksound22
